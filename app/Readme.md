@@ -8,6 +8,8 @@
 
 - ✨ Projeto:<br>
   ✔️ Geração de um aplicatico para ciclistas pedalarem juntos<br>
+  ✔️ Tela de login<br>
+
 
 
 </div>
