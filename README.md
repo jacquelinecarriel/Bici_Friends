@@ -11,7 +11,8 @@
 - ✨ Projeto:<br>
   ✔️ Geração de um aplicatico para ciclistas pedalarem juntos<br>
   ✔️ Tela de login<br>
-- teste<be>
+  [Desenvolvimento inicial baseado no video login android](https://www.youtube.com/watch?v=XMI1iejmtzs)
+
 
 
 
