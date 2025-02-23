@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LoginPage" parent="android:Theme.Material.Light.NoActionBar">
+
+    <!--Primary brand-->
+<!--    <item name="colorPrimaryVariant">@color/aqua</item>-->
+
+    </style>
+</resources>
